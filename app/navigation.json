@@ -1,0 +1,53 @@
+{
+  "navigationAfterLogin": [
+    {
+      "name": "Home",
+      "route": "Home",
+      "icon": "home",
+      "iconColor": "#C5F442",
+      "bg": "#C5F442"
+    },
+    {
+      "name": "Rent History",
+      "route": "RentHistory",
+      "icon": "information-circle",
+      "iconColor": "#C5F442",
+      "bg": "#C5F442"
+    },
+    {
+      "name": "Test Json",
+      "route": "TestJson",
+      "icon": "information-circle",
+      "iconColor": "#C5F442",
+      "bg": "#C5F442"
+    },
+    {
+      "name": "Help",
+      "route": "Help",
+      "icon": "information-circle",
+      "iconColor": "#C5F442",
+      "bg": "#C5F442"
+    },
+    {
+      "name": "Login",
+      "route": "Login",
+      "icon": "information-circle",
+      "iconColor": "#C5F442",
+      "bg": "#C5F442"
+    },
+    {
+      "name": "Signup",
+      "route": "Signup",
+      "icon": "information-circle",
+      "iconColor": "#C5F442",
+      "bg": "#C5F442"
+    },
+    {
+      "name": "Forgot Password",
+      "route": "ForgotPassword",
+      "icon": "information-circle",
+      "iconColor": "#C5F442",
+      "bg": "#C5F442"
+    }
+  ]
+}

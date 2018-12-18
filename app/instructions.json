@@ -1,0 +1,28 @@
+{
+  "instructions": [
+    {
+      "title": "View",
+      "description": "The most fundamental component for building a UI."
+    },
+    {
+      "title": "Text",
+      "description": "A component for displaying text."
+    },
+    {
+      "title": "Image",
+      "description": "A component for displaying images."
+    },
+    {
+      "title": "TextInput",
+      "description": "A component for inputting text into the app via a keyboard."
+    },
+    {
+      "title": "ScrollView",
+      "description": "Provides a scrolling container that can host multiple components and views."
+    },
+    {
+      "title": "StyleSheet",
+      "description": "Provides an abstraction layer similar to CSS stylesheets."
+    }
+  ]
+}
